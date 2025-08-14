@@ -30,6 +30,12 @@ Tiden er sat således at der vil være:
 - 4 timers undervisning og samlet opgave regning
 - 4 timers individuel opgaveregning (der hjemme, efter undervisning)
 
+## Spørgsmål
+
+- [Hello1](https://onecompiler.com/c/43tnvw67g)
+
+
+
 ## Spørgsmål noter
 
 - Til hver opgave i undervisningen vil der være:
