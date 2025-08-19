@@ -7,14 +7,12 @@
 
 ## ​ Usage
 
-To use this template:
-
-1. Click **Use this template** on GitHub to create a new repo.
-2. Clone it locally:
+1. Clone it locally:
    ```bash
-   git clone https://github.com/you/{{REPO_NAME}}.git
-   cd {{REPO_NAME}}
-
+   git clone https://github.com/AAU-ST1-Programming/introduktion.git
+   cd introduktion
+   ```
+   
 ## Forberedelse
 
 Til hver lektion skal man forvente følgende:
