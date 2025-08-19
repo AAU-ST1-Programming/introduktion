@@ -1,6 +1,5 @@
-# {{REPO_NAME}}
-
-- **PowerPoint slideshow**: `{{REPO_NAME}}.pptx`
+# Introduktion til C Programmering
+- **PowerPoint slideshow**: `introduktion.pptx`
 - **questions.docx** – `Indeholder spørgsmål som i får i forbindelsen med forlæsningen.`
 - **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
