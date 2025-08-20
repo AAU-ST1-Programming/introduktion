@@ -14,6 +14,20 @@
    
 ## Forberedelse
 
+Læs
+- [The C Programming Language Book](https://www.moodle.aau.dk/pluginfile.php/3742679/mod_folder/content/0/The%20C%20Programming%20Language.pdf?forcedownload=1)
+   - Chapters: Introduction, Sec1.1, Sec1.2, Sec1.4
+
+[C - Home](https://www.tutorialspoint.com/cprogramming/index.htm)
+[C - Overview](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
+
+Se nedenstående video:
+
+- [Intro to C language](https://youtu.be/AUQQLzgfufQ)
+- [Intro to Structured Programming](https://youtu.be/TmtyFcLWXwo)
+
+
+
 Til hver lektion skal man forvente følgende:
 
 Før/efter Kursusgang:
