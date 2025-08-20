@@ -30,6 +30,7 @@ Denne kursusgang består i en kort introduktion i hvad Programmering er, og hvad
 - [Intro to Structured Programming](https://youtu.be/TmtyFcLWXwo)
 
 **Opgave Videoer**
+
 [Hello World Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=3d05efcc-76e9-4833-8c06-b332008e3a59)
 [Hello Variables Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=47fa856e-4156-44cb-bd26-b3360088cd0f)
 
