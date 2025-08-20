@@ -4,6 +4,9 @@
 - **Lecture specific files** - `En mappe som indeholder filer i skal bruge i forbindelse med forlæsningen.`
 ---
 
+Denne kursusgang består i en kort introduktion i hvad Programmering er, og hvad i kan forvente at skulle gennemgå i løbet af dette kursus.
+
+
 ## ​ Usage
 
 1. Clone it locally:
@@ -25,6 +28,11 @@
 
 - [Intro to C language](https://youtu.be/AUQQLzgfufQ)
 - [Intro to Structured Programming](https://youtu.be/TmtyFcLWXwo)
+
+**Opgave Videoer**
+[Hello World Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=3d05efcc-76e9-4833-8c06-b332008e3a59)
+[Hello Variables Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=47fa856e-4156-44cb-bd26-b3360088cd0f)
+
 
 Til hver lektion skal man forvente følgende:
 
