@@ -14,19 +14,17 @@
    
 ## Forberedelse
 
-Læs
+**Læs:**
+
 - [The C Programming Language Book](https://www.moodle.aau.dk/pluginfile.php/3742679/mod_folder/content/0/The%20C%20Programming%20Language.pdf?forcedownload=1)
    - Chapters: Introduction, Sec1.1, Sec1.2, Sec1.4
+- [C - Home](https://www.tutorialspoint.com/cprogramming/index.htm)
+- [C - Overview](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
 
-[C - Home](https://www.tutorialspoint.com/cprogramming/index.htm)
-[C - Overview](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
-
-Se nedenstående video:
+**Se nedenstående video:**
 
 - [Intro to C language](https://youtu.be/AUQQLzgfufQ)
 - [Intro to Structured Programming](https://youtu.be/TmtyFcLWXwo)
-
-
 
 Til hver lektion skal man forvente følgende:
 
@@ -40,12 +38,6 @@ Tiden er sat således at der vil være:
 - 4 timers forberedelser (der hjemme, før undervisning)
 - 4 timers undervisning og samlet opgave regning
 - 4 timers individuel opgaveregning (der hjemme, efter undervisning)
-
-## Spørgsmål
-
-- [Hello1](https://onecompiler.com/c/43tnvw67g)
-
-
 
 ## Spørgsmål noter
 
